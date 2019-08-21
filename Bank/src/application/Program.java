@@ -39,6 +39,8 @@ public class Program {
 		System.out.println();
 
 		System.out.println("Thank you to be our customer! See you soon.");
+		
+		sc.close();
 	}
 
 }
